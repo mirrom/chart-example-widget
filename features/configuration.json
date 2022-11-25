@@ -1,0 +1,12 @@
+{
+    "$schema": "https://raw.githubusercontent.com/liferay/liferay-js-toolkit/master/resources/schemas/configuration.schema.json",
+    "system": {
+        "category": "Sample",
+        "name": "chart-example-widget",
+        "fields": {}
+    },
+    "portletInstance": {
+        "fields": {
+        }
+    }
+}
